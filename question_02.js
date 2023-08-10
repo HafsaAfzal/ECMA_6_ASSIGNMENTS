@@ -4,3 +4,4 @@ function printArray(...rest){
     return(rest);
 }
 const result=printArray(7,5,8,9,2,0,1);
+console.log(result);
